@@ -1,0 +1,13 @@
+@media (max-width: 870px) {
+  .img {
+    width: 500px;
+    background-color: red;
+  }
+}
+@media (max-width: 500px) {
+  .img {
+    width: 300px;
+    background-color: red;
+  }
+}
+
